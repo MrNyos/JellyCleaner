@@ -1,0 +1,10 @@
+{
+  "Id": "MrNyos.JellyCleaner",
+  "Name": "Jelly Cleaner",
+  "Version": "1.0.0",
+  "Description": "Deletes watched media older than a configured number of days.",
+  "Authors": ["MrNyos"],
+  "MinServerVersion": "10.7.0",
+  "RequireRestart": false,
+  "ConfigurationPage": "Configuration/PluginConfig.html"
+}

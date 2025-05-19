@@ -1,0 +1,6 @@
+E:\Projects\JellyCleaner\obj\Release\net8.0\MyJellyfinPlugin.csproj.AssemblyReference.cache
+E:\Projects\JellyCleaner\obj\Release\net8.0\MyJellyfinPlugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\JellyCleaner\obj\Release\net8.0\MyJellyfinPlugin.AssemblyInfoInputs.cache
+E:\Projects\JellyCleaner\obj\Release\net8.0\MyJellyfinPlugin.AssemblyInfo.cs
+E:\Projects\JellyCleaner\obj\Release\net8.0\MyJellyfinPlugin.csproj.CoreCompileInputs.cache
+E:\Projects\JellyCleaner\obj\Release\net8.0\MyJellyfinPlugin.sourcelink.json
